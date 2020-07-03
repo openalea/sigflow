@@ -1,7 +1,7 @@
 # {# pkglts, pysetup.kwds
 # format setup arguments
 
-from pathlib import Path
+from path import Path
 
 from setuptools import setup, find_packages
 

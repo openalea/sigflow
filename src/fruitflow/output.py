@@ -1,9 +1,11 @@
 
+from builtins import str
 from openalea.plantgl import scenegraph as pglsc
 from matplotlib import cm
 from matplotlib.colors import LinearSegmentedColormap
 from openalea.plantgl import gui as pglgui
 from openalea.plantgl.all import *
+from openalea.mtg import plantframe, io 
 from .simulation import *
 
 
@@ -13,7 +15,7 @@ def update_mtg(g, mtg_name, dict_results, directory, sim_id=0):
 	g.add_property('activating')
 	g.add_property('final.proba')
 	res = dict_results[sim_id]
-	for vid, data in res.items():
+	for vid, data in list(res.items()):
 		n = g.node(vid)
   		n.inhibiting = data[0]
 		n.activating = data[1]
@@ -48,7 +50,7 @@ def create_scene(g):
  	zmax = max(zmax, g.node(vid).ZZ)
 
  unit = 10
- from openalea.mtg import plantframe   
+  
  dressing_data = plantframe.DressingData(DiameterUnit=unit)
  pf = plantframe.PlantFrame(g, TopDiameter='TopDia', DressingData=dressing_data)
  scn = pf.plot(gc=True)
