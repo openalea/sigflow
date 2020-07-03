@@ -1,0 +1,23 @@
+# {# pkglts, pysetup
+include AUTHORS.md
+include CONTRIBUTING.md
+include HISTORY.md
+include README.md
+
+include LICENSE
+
+include requirements.txt
+include requirements_minimal.txt
+
+
+
+recursive-include src/fruitflow *
+
+
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+
+
+
+# #}

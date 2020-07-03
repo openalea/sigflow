@@ -1,0 +1,49 @@
+{
+  "AUTHORS.md": {
+    "doc.authors": "BQdpiV+npOIq2fBYA8I0aFOEkuq3V26LIbaxAU4XDQE7j/gAfJTLoO2Vx6jxi67EqwTQXT3EhTmsmtAP5G8X0A==",
+    "doc.contributors": "Ac1xHbB5q5mQmhiYDeN4wlY1XcXX+3z2O7Y14J0R8PshAShZ7fH6eusQDc1eMXM1tgKvDvo+lZMEc+Ondw9kiw=="
+  },
+  "AUTHORS.rst": {
+    "doc.authors": "v0jUZ0JX6QUfbHvDZq+ykZjNAjcrEcC9rzHj04kYNip873Y3eZcYbUNDXr/CsJgQ3cxLsMH6yItbszrRR/fcUw==",
+    "doc.contributors": "Ac1xHbB5q5mQmhiYDeN4wlY1XcXX+3z2O7Y14J0R8PshAShZ7fH6eusQDc1eMXM1tgKvDvo+lZMEc+Ondw9kiw=="
+  },
+  "CONTRIBUTING.md": {},
+  "CONTRIBUTING.rst": {},
+  "HISTORY.md": {},
+  "HISTORY.rst": {},
+  "LICENSE": {
+    "license": "RbGRVVjgGPhWaPWhqwtq7HHev/U1DkppBYjGN39HbDZ2BDejFc2exfwAH1MiY2HHn+3TgxlvBkg/s/x9hs3aOA=="
+  },
+  "MANIFEST.in": {
+    "pysetup": "ApEpsewTqokoOKwQSwgPyn9gG35A2PuNEVH0b2elR4WpUpYDbryoPK5WoBQXoIj09RyhYl31L9i6g6Szvyw4NQ=="
+  },
+  "README.md": {
+    "doc": "AWuoxM/eZa+Zy1+ouKN+Lrc/SBs640mRZm3y4E/rbAOGZuvR7CtvYjlndWAzxwLd5fQj99R6tu0YJ/9TeDcx9w=="
+  },
+  "README.rst": {
+    "doc": "vmiIOMqGhuXJBom/KrWFzvETfJmbSMcLkvZ6XDTcFWl7XRHJgu1tcb4eHn97TgcziEqpfD96M5qO0DV3z3S+CQ=="
+  },
+  "mkdocs.yml": {
+    "doc": "1ahbpqm5oWeGZfn3zmCb7NyqsHC8c7XlTM63n8mDPw/+viRcJ+uZkgix+qvDBA1Vrt6A1fMuvH7dWi0oI7IO7g=="
+  },
+  "requirements.txt": {
+    "reqs": "55TyOVan0zMtRv/na4dulIOufBNNYiKuHN4TOFeBcrq1oIKa7z+7iezGBNZm4p8xUwb1TlyN9+Cdh4E4+Ew8Kg=="
+  },
+  "requirements_minimal.txt": {
+    "reqs": "AWuoxM/eZa+Zy1+ouKN+Lrc/SBs640mRZm3y4E/rbAOGZuvR7CtvYjlndWAzxwLd5fQj99R6tu0YJ/9TeDcx9w=="
+  },
+  "setup.cfg": {
+    "wheel": "JU1EFVyMl4pj8wMAK8S5DWwUj+d4S5GnCiuF/SGg96GT/6vUDNBRlhYyvDxcXVCEFypaWddO4pgCUwFsue9Khg=="
+  },
+  "setup.py": {
+    "pysetup.call": "t30iIuCMd/sWxStR2XNYb8bCBgwanhKt8YYn2VKACyAqL5cKFRUWpVRIpAR+uxXUZ9PYYy2csMmECcONnRZE8w==",
+    "pysetup.kwds": "z1JAnk6AJgAEAQZI2iolNrRfmHgAc+rJy3m16OYuUZ/Rd/q42NuL1+7POXKHdARvC4EDUU1dREKqN7snvwno1Q=="
+  },
+  "src/fruitflow/__init__.py": {
+    "src": "L2dZgUBRC5qv3o09+1CbMcgYfQtR1ZNSvP8KlP8REQazZiAQAktALjpCC2ijdxvKPv/tN9KsZrzNW+lZMszSfg==",
+    "version": "skSCnavrYKIlfN9Mpi+cANbU8gXulaKdlHryvkjkoSSpsag1I66dM+6JHm1aOdmKYU0rZNNgcIamCMbIL7IeMg=="
+  },
+  "src/fruitflow/version.py": {
+    "version": "E3gJH5NVH8Gq6eVM2EvxFIPx/zrc0i6tFJ5siPY/oRsDggNt7nC1VEgvdVHdanJqj/02tChIa/5aS/XoXbrzrg=="
+  }
+}

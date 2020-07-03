@@ -1,0 +1,63 @@
+{
+  "_pkglts": {
+    "auto_install": true,
+    "install_front_end": "stdout",
+    "use_prompts": false,
+    "version": 13
+  },
+  "base": {
+    "authors": [
+      [
+        "Benoit Pallas",
+        "benoit.pallas@inrae.fr"
+      ],
+      [
+        "Christophe Pradal",
+        "christophe.pradal@cirad.fr"
+      ],
+      [
+        "Fares Belhassine",
+        "Fares.Belhassine@inrae.fr"
+      ]
+    ],
+    "namespace": null,
+    "pkgname": "fruitflow",
+    "url": null
+  },
+  "data": {
+    "filetype": [
+      ".json",
+      ".ini",
+      "*.mtg",
+      "*.txt"
+    ],
+    "use_ext_dir": false
+  },
+  "doc": {
+    "description": "Architectural Model of Fruit Tree Flowering ",
+    "fmt": "md",
+    "keywords": []
+  },
+  "license": {
+    "name": "cecill-c",
+    "organization": "INRAE, Cirad",
+    "project": "{{ base.pkgname }}",
+    "year": 2020
+  },
+  "pysetup": {
+    "intended_versions": [
+      "27", "36"
+    ]
+  },
+  "reqs": {
+    "require": []
+  },
+  "src": {
+    "namespace_method": "pkg_util"
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "post": 0
+  }
+}
