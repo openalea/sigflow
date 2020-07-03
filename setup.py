@@ -29,7 +29,7 @@ setup_kwds = dict(
     long_description=readme + '\n\n' + history,
     author="Benoit Pallas",
     author_email="benoit.pallas@inrae.fr",
-    url='',
+    url='https://github.com/openalea/fruitflow',
     license='cecill-c',
     zip_safe=False,
 
