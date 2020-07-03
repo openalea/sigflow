@@ -1,4 +1,4 @@
-# fruitflow
+# FruitFlow
 
 [//]: # ({# pkglts, doc)
 
