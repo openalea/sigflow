@@ -14,5 +14,5 @@ MINOR = 0
 POST = 0
 """(int) Version post or bugfix component."""
 
-__version__ = f"{MAJOR:d}.{MINOR:d}.{POST:d}"
+__version__ = "{MAJOR:d}.{MINOR:d}.{POST:d}".format(MAJOR=MAJOR, MINOR=MINOR, POST=POST)
 # #}
